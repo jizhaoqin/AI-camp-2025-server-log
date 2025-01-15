@@ -4,7 +4,7 @@
 - **服务器名称:** ssh jizhaoqin@zibo.saas.iluvatar.com.cn -p `32372`
 - **服务器名称:** ssh jizhao@zibo.saas.iluvatar.com.cn -p `32372`
 
-## 日期: 2025.01.15
+## 日期: 2025/1/15
 
 - 登陆服务器
 - 创建并配置用户
