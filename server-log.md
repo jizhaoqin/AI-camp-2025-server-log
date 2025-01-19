@@ -19,6 +19,8 @@
 - 下载`xmake-example`文件夹, 测试编译执行
 - 配置环境和vscode插件等
 
-
+## 2025/1/19
+- 下载cuda作业repo
+- 测试远程vscode C++ 插件
 
 
